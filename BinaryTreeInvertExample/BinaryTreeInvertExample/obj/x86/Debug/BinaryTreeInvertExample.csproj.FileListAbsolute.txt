@@ -1,0 +1,5 @@
+\\ipcnet.local\userdata$\HomeFolders\Justin.Malinchak\Private\Visual Studio 2010\Projects\BinaryTreeInvertExample\BinaryTreeInvertExample\bin\Debug\BinaryTreeInvertExample.exe
+\\ipcnet.local\userdata$\HomeFolders\Justin.Malinchak\Private\Visual Studio 2010\Projects\BinaryTreeInvertExample\BinaryTreeInvertExample\bin\Debug\BinaryTreeInvertExample.pdb
+\\ipcnet.local\userdata$\HomeFolders\Justin.Malinchak\Private\Visual Studio 2010\Projects\BinaryTreeInvertExample\BinaryTreeInvertExample\obj\x86\Debug\BinaryTreeInvertExample.exe
+\\ipcnet.local\userdata$\HomeFolders\Justin.Malinchak\Private\Visual Studio 2010\Projects\BinaryTreeInvertExample\BinaryTreeInvertExample\obj\x86\Debug\BinaryTreeInvertExample.pdb
+\\ipcnet.local\userdata$\HomeFolders\Justin.Malinchak\Private\Visual Studio 2010\Projects\BinaryTreeInvertExample\BinaryTreeInvertExample\obj\x86\Debug\BinaryTreeInvertExample.csprojResolveAssemblyReference.cache
